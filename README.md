@@ -1,2 +1,2 @@
 # SimpleChatbot
-Chatbot is used for communication
+Chatbot is used for basic communication in Vietnamese
