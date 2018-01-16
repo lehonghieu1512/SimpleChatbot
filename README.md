@@ -1,7 +1,7 @@
 # SimpleChatbot in python
 This chatbot is used for basic communication in Vietnamese
 
-The chatbot is made up from 2 algorithms which are doc2vec and neuron network
+The chatbot is made out of 2 algorithms which are doc2vec and neuron network
 
 Doc2vec is a state-of-the-art algorithm which specializes in converting texts into vectors while keeping semantics and word order in a particular text length.
 
